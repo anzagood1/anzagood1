@@ -9,7 +9,7 @@ Este soy yo en mi vida universitaria, proximamente profesional.
   
 ## Información personal
 
-* Nombre: [Tu nombre]
+* Nombre: Angel Moises Zambrano Goodman
 * Ocupación: Estudiante de Ciencias de la Computacion en la Escuela superior Politecnica del Litoral ESPOL 🐢
 
 ## Proyectos
