@@ -15,9 +15,9 @@ Este soy yo en mi vida universitaria, proximamente profesional.
 
 ## Proyectos
 
-* Base de datos de una urbanizacion para control de entrada
+* [Base de datos de una urbanizacion para control de entrada](https://github.com/Sambek99/BaseDeDatos)
 * App de cine 
-* Gestionador de espacios en la ESPOL. 
+* [Gestionador de espacios en la ESPOL](https://github.com/anzagood1/POO4_1P_ZAMBRANO_LLAMUCA_VILLACIS.)  
 
 ## Intereses
 * Desarrollo de Aplicacion Multiplataforma 📱
